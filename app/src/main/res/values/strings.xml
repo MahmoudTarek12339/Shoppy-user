@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Shoppy-user</string>
+    <string name="product_name"> </string>
+    <string name="offer"> </string>
+    <string name="offer_price"> </string>
+    <string name="original_price"> </string>
+    <string name="customer_name">Name</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="province">Province</string>
+    <string name="enter_province">Enter your province</string>
+    <string name="city">City</string>
+    <string name="enter_city">Enter your city</string>
+    <string name="street">Street</string>
+    <string name="enter_street">Enter your street</string>
+    <string name="phone">Phone</string>
+    <string name="enter_phone">Enter your phone (required)</string>
+    <string name="landLine">Phone\n(Land line)</string>
+    <string name="enter_landLine">Enter your phone(optional)</string>
+    <string name="submit">Submit order</string>
+    <string name="quantity">Quantity</string>
+    <string name="plus">+</string>
+    <string name="quantity_number" />
+    <string name="min">-</string>
+    <string name="color">Color</string>
+    <string name="color_1" />
+    <string name="color_2" />
+    <string name="color_3" />
+    <string name="color_4" />
+    <string name="size">Size</string>
+    <string name="small">S</string>
+    <string name="medium">M</string>
+    <string name="large">L</string>
+    <string name="x_large">XL</string>
+    <string name="xx_large">XXL</string>
+    <string name="add_to_cart">add to cart</string>
+</resources>
